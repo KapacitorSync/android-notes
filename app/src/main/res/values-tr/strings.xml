@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dev">Geliştirici</string>
+    <string name="back">Geri</string>
+    <string name="apply">Uygula</string>
+    <string name="finish">Bitir</string>
+    <string name="close">Kapat</string>
+    <string name="save">Kaydet</string>
+    <string name="next">Devam</string>
+    <string name="cancel">İptal et</string>
+
+    <string name="input_empty">%1$s boş olamaz</string>
+    <string name="input_not_number">%1$s sayı olmak zorunda</string>
+
+    <string name="server_fail">Sunucudan veri alırken hata oluştu</string>
+    <string name="server_invalid_credentials">Geçersiz kullanıcı adı veya şifre</string>
+
+    <string name="welcome">Hoş geldiniz!</string>
+    <string name="welcome_lets_get_started">Haydi başlayalım</string>
+
+    <string name="server_details">Sunucu detayaları</string>
+
+    <string name="server_details_url">Sunucu URLsi</string>
+    <string name="server_details_port">Sunucu portu</string>
+
+    <string name="server_password">Sunucu şifresi</string>
+
+    <string name="users">Kullanıcılar</string>
+
+    <string name="users_change_user">Kullanıcı değiştir</string>
+    <string name="users_no_user_found">Kullanıcı bulunamadı</string>
+
+    <string name="create_user">Kullanıcı oluştur</string>
+
+    <string name="add_user">Kullanıcı ekle</string>
+
+    <string name="settings">Ayarlar</string>
+
+    <string name="general_settings">Genel Ayarlar</string>
+    <string name="general_settings_desc">Genel Ayarlar</string>
+
+    <string name="appearance">Görünüm</string>
+    <string name="appearance_desc">Tema, Material You</string>
+
+    <string name="appearance_theme">Tema</string>
+    <string name="appearance_theme_desc">Koyu veya açık tema arasında seçim yapın</string>
+
+    <string name="appearance_theme_monochrome">Monochrome</string>
+
+    <string name="system">Sistem</string>
+    <string name="dark">Koyu</string>
+    <string name="light">Açık</string>
+
+    <string name="appearance_material_you">Material You</string>
+    <string name="appearance_material_you_desc">Uygulama renklerini isteğinize göre değiştirin</string>
+
+    <string name="appearance_material_you_wallpaper_colors">Duvar kağıdı renklerini kullan</string>
+    <string name="appearance_material_you_wallpaper_colors_unsupported">Bu seçenek Android 12 altında kullanılamaz</string>
+
+    <string name="languages">Diller</string>
+    <string name="languages_desc">Uygulama dilini değiştirin</string>
+
+    <string name="about">Hakkında</string>
+    <string name="about_desc">Bu uygulama hakkında</string>
+
+    <string name="about_follow_on">%1$s\'da takip et</string>
+    <string name="about_follow_on_desc">Geliştiriciyi %1$s\'da takip et</string>
+
+    <string name="about_view_on">%1$s\'da gör</string>
+    <string name="about_view_on_desc">projeyi %1$s\'da gör</string>
+
+    <string name="licenses">Açık Kaynak Lisansları</string>
+    <string name="licenses_desc">Bu uygulamanın yapımında kullanılan kütüphaneler</string>
+    <string name="home">Ana sayfa</string>
+
+</resources>
